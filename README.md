@@ -11,8 +11,10 @@
 
 # My Blog
 ~~something boring~~
+
 [Welcome to my Blog](https://jbnrz.com.cn/)
 
 # Reach me 
 [Github](https://github.com/JBNRZ)
+
 []()
