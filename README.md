@@ -4,5 +4,15 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=JBNRZ&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
+- I'm learning: Cyber Security, Python, Golang
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+# My Blog
+~~something boring~~
+[Welcome to my Blog](https://jbnrz.com.cn/)
+
+# Reach me 
+[Github](https://github.com/JBNRZ)
+[]()
