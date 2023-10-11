@@ -12,6 +12,17 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 
+ **🌱 My Blog**
+
+Maybe something interesting
+
+[Welcome to my Blog](https://jbnrz.com.cn/)
+
+ **💬 Reach me** 
+
+[Github](https://github.com/JBNRZ)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2052%20mins-blue)
 
@@ -62,13 +73,3 @@ CSS                      1 repo              █████░░░░░░�
 
  Last Updated on 11/10/2023 10:42:41 UTC
 <!--END_SECTION:waka-->
-
- **🌱 My Blog**
-
-Maybe something interesting
-
-[Welcome to my Blog](https://jbnrz.com.cn/)
-
- **💬 Reach me** 
-
-[Github](https://github.com/JBNRZ)
