@@ -18,7 +18,7 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2030%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,5 +70,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2024 12:18:09 UTC
+ Last Updated on 28/01/2024 18:12:28 UTC
 <!--END_SECTION:waka-->
