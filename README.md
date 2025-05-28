@@ -34,19 +34,16 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       15 mins             █████████████████████░░░░   84.91 % 
-GitIgnore file           2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CBCTF                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2025 18:22:47 UTC
+ Last Updated on 28/05/2025 01:20:27 UTC
 <!--END_SECTION:waka-->
