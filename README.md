@@ -18,7 +18,7 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,16 +34,17 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       11 mins             █████████████████████████   99.98 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CBCTF                    11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +60,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 18:24:43 UTC
+ Last Updated on 25/09/2025 01:15:44 UTC
 <!--END_SECTION:waka-->
