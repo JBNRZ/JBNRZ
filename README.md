@@ -18,7 +18,7 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C508%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -34,16 +34,22 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       30 mins             █████████░░░░░░░░░░░░░░░░   36.97 % 
+JavaScript               28 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SZCTF                    1 hr 9 mins         █████████████████████░░░░   83.07 % 
+CBCTF                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+test.py                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +65,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2026 18:48:27 UTC
+ Last Updated on 26/04/2026 02:31:58 UTC
 <!--END_SECTION:waka-->
