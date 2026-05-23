@@ -18,8 +18,6 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2011%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -59,5 +57,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 13:20:27 UTC
+ Last Updated on 23/05/2026 19:06:37 UTC
 <!--END_SECTION:waka-->
