@@ -18,6 +18,34 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2011%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                329 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                1601 commits        ██████████░░░░░░░░░░░░░░░   41.94 % 
+🌃 Evening                1443 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌙 Night                  444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,5 +59,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 20:19:00 UTC
+ Last Updated on 29/05/2026 02:56:39 UTC
 <!--END_SECTION:waka-->
