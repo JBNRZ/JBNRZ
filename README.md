@@ -18,15 +18,15 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2034%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                386 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-🌆 Daytime                1895 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
-🌃 Evening                1613 commits        █████████░░░░░░░░░░░░░░░░   36.08 % 
-🌙 Night                  577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌞 Morning                386 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+🌆 Daytime                1895 commits        ███████████░░░░░░░░░░░░░░   42.15 % 
+🌃 Evening                1622 commits        █████████░░░░░░░░░░░░░░░░   36.08 % 
+🌙 Night                  593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 
 
@@ -34,37 +34,40 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 5 mins        ███████████████████░░░░░░   74.30 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Go                       3 hrs 59 mins       ██████████████░░░░░░░░░░░   54.98 % 
+Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+GitIgnore file           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 50 mins       ██████████████░░░░░░░░░░░   56.02 % 
-Opencode Cli             3 hrs               ███████████░░░░░░░░░░░░░░   43.98 % 
+GoLand                   3 hrs 49 mins       █████████████░░░░░░░░░░░░   52.70 % 
+Opencode Cli             2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
+PyCharm                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🐱‍💻 Projects: 
-CBCTF                    4 hrs 50 mins       ██████████████████░░░░░░░   70.56 % 
-SZCTF                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-srun-login               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+CBCTF                    2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
+SZCTF                    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+vshell                   1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+listdir-dl.py            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+server                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████░░░░░░░░░░░░░░   43.33 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 
 
 
- Last Updated on 06/07/2026 15:27:33 UTC
+ Last Updated on 06/07/2026 19:53:55 UTC
 <!--END_SECTION:waka-->
