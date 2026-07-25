@@ -18,6 +18,8 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%2054%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -32,26 +34,26 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       28 hrs 1 min        ██████████████████░░░░░░░   72.52 % 
-TypeScript               4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Docker                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Go                       26 hrs 10 mins      ██████████████████░░░░░░░   71.97 % 
+TypeScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Docker                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-GoLand                   27 hrs 21 mins      ██████████████████░░░░░░░   70.78 % 
-Opencode Cli             11 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+GoLand                   24 hrs 47 mins      █████████████████░░░░░░░░   68.14 % 
+Opencode Cli             11 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-vshell                   32 hrs 1 min        █████████████████████░░░░   82.88 % 
-test                     5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-CBCTF                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-stageless                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-go-donut                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+vshell                   29 hrs 54 mins      █████████████████████░░░░   82.21 % 
+test                     4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+CBCTF                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+stageless                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Downloads                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  38 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +69,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:24:08 UTC
+ Last Updated on 25/07/2026 02:26:24 UTC
 <!--END_SECTION:waka-->
