@@ -34,26 +34,26 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       26 hrs 10 mins      ██████████████████░░░░░░░   71.97 % 
-TypeScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Docker                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Go                       22 hrs 20 mins      ██████████████████░░░░░░░   70.67 % 
+TypeScript               3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Docker                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-GoLand                   24 hrs 47 mins      █████████████████░░░░░░░░   68.14 % 
-Opencode Cli             11 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
+GoLand                   21 hrs 30 mins      █████████████████░░░░░░░░   68.06 % 
+Opencode Cli             10 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-vshell                   29 hrs 54 mins      █████████████████████░░░░   82.21 % 
-test                     4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-CBCTF                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-stageless                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Downloads                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+vshell                   25 hrs 53 mins      ████████████████████░░░░░   81.93 % 
+test                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+CBCTF                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+stageless                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Downloads                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Windows                  36 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,5 +69,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:04:40 UTC
+ Last Updated on 26/07/2026 02:32:00 UTC
 <!--END_SECTION:waka-->
