@@ -26,8 +26,8 @@ Maybe something interesting
 
 ```text
 🌞 Morning                460 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-🌆 Daytime                2407 commits        ███████████░░░░░░░░░░░░░░   43.54 % 
-🌃 Evening                1901 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌆 Daytime                2407 commits        ███████████░░░░░░░░░░░░░░   43.53 % 
+🌃 Evening                1902 commits        █████████░░░░░░░░░░░░░░░░   34.40 % 
 🌙 Night                  760 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
@@ -36,48 +36,47 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       14 hrs 2 mins       █████████████████████░░░░   85.37 % 
-TypeScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Go                       5 hrs 34 mins       ███████████████████░░░░░░   77.32 % 
+TypeScript               1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-GoLand                   13 hrs 20 mins      ████████████████████░░░░░   81.20 % 
-Opencode Cli             3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+GoLand                   6 hrs 32 mins       ███████████████████████░░   90.54 % 
+Opencode Cli             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 🐱‍💻 Projects: 
-vshell                   12 hrs 32 mins      ███████████████████░░░░░░   76.24 % 
-test                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-sliver                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+vshell                   6 hrs 43 mins       ███████████████████████░░   93.03 % 
+test                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+sliver                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  16 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 30 mins (39.56%)
+⏱ AI Coding Time: 2 hrs 30 mins (34.86%)
 
-✍️ 4,098 lines written by AI, 1,390 lines written by hand (74.67% AI-written)
+✍️ 886 lines written by AI, 480 lines written by hand (64.86% AI-written)
 
-🔤 6,867,376 Input Tokens, 131,091 Output Tokens
+🔤 1,807,312 Input Tokens, 41,712 Output Tokens
 
-💵 $32.38 Estimated AI Cost This Week
+💵 $7.96 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 99 AI Prompts
+🧠 15 AI Sessions, 27 AI Prompts
 
-GPT                      4,277 lines         ██████████████████████░░░   88.99 % 
-Deepseek                 529 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Deepseek                 523 lines           █████████████░░░░░░░░░░░░   52.56 % 
+GPT                      472 lines           ████████████░░░░░░░░░░░░░   47.44 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.67% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
+⚖️ Balanced with AI — 64.86% of written lines came from AI
+📝 Concise Prompter — average 145 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 41.01% of changed lines were hand-edited
+🚀 High AI Trust — 42.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +92,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 14:03:46 UTC
+ Last Updated on 05/08/2026 19:27:34 UTC
 <!--END_SECTION:waka-->
