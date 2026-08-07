@@ -18,6 +18,10 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%207%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -89,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 23:57:18 UTC
+ Last Updated on 07/08/2026 02:32:36 UTC
 <!--END_SECTION:waka-->
