@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C781%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C787%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,49 +36,49 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       27 hrs 16 mins      ██████████████████░░░░░░░   70.71 % 
-TypeScript               3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Other                    1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSS                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Go                       28 hrs 4 mins       ██████████████████░░░░░░░   73.56 % 
+TypeScript               4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-GoLand                   38 hrs 32 mins      █████████████████████████   99.93 % 
+GoLand                   38 hrs 8 mins       █████████████████████████   99.93 % 
 PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-vshell                   25 hrs 53 mins      █████████████████░░░░░░░░   67.11 % 
-c2                       4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-test                     4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Ares                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-sliver                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+vshell                   28 hrs 27 mins      ███████████████████░░░░░░   74.55 % 
+test                     4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+c2                       4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+sliver                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+emp3r0r                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  38 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 8 mins (72.98%)
+⏱ AI Coding Time: 27 hrs 24 mins (71.78%)
 
-✍️ 35,850 lines written by AI, 3,056 lines written by hand (92.15% AI-written)
+✍️ 31,937 lines written by AI, 3,478 lines written by hand (90.18% AI-written)
 
-🔤 23,431,428 Input Tokens, 2,514,522 Output Tokens
+🔤 23,808,270 Input Tokens, 3,188,012 Output Tokens
 
-💵 $1131.70 Estimated AI Cost This Week
+💵 $1823.15 Estimated AI Cost This Week
 
-🧠 210 AI Sessions, 398 AI Prompts
+🧠 204 AI Sessions, 380 AI Prompts
 
-Deepseek                 35,738 lines        ███████████████████████░░   93.57 % 
-K                        2,455 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Deepseek                 32,034 lines        ███████████████████████░░   92.88 % 
+K                        2,455 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.15% of written lines came from AI
-📄 Detailed Prompter — average 618 characters per prompt
+🤖 AI-Driven — 90.18% of written lines came from AI
+📄 Detailed Prompter — average 733 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +94,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:01:25 UTC
+ Last Updated on 14/08/2026 01:43:21 UTC
 <!--END_SECTION:waka-->
