@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,49 +36,48 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       25 hrs 48 mins      ███████████████████░░░░░░   75.61 % 
-TypeScript               4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go                       19 hrs 30 mins      █████████████████░░░░░░░░   69.83 % 
+TypeScript               4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-GoLand                   34 hrs 7 mins       █████████████████████████   99.92 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+GoLand                   27 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vshell                   25 hrs 53 mins      ███████████████████░░░░░░   75.84 % 
-test                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-c2                       3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-sliver                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-emp3r0r                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+vshell                   25 hrs 8 mins       ███████████████████████░░   90.04 % 
+c2                       1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+test                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+CS-Situational-Awareness-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+bof_template             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  34 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 34 mins (71.98%)
+⏱ AI Coding Time: 21 hrs 25 mins (76.72%)
 
-✍️ 26,319 lines written by AI, 3,413 lines written by hand (88.52% AI-written)
+✍️ 24,550 lines written by AI, 1,953 lines written by hand (92.63% AI-written)
 
-🔤 18,192,180 Input Tokens, 3,246,680 Output Tokens
+🔤 15,975,566 Input Tokens, 3,145,204 Output Tokens
 
-💵 $1891.30 Estimated AI Cost This Week
+💵 $1933.79 Estimated AI Cost This Week
 
-🧠 199 AI Sessions, 344 AI Prompts
+🧠 170 AI Sessions, 287 AI Prompts
 
-Deepseek                 29,277 lines        █████████████████████████   99.89 % 
-K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Deepseek                 27,469 lines        █████████████████████████   99.88 % 
+K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.52% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
+🤖 AI-Driven — 92.63% of written lines came from AI
+📄 Detailed Prompter — average 878 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:26:15 UTC
+ Last Updated on 17/08/2026 01:06:03 UTC
 <!--END_SECTION:waka-->
