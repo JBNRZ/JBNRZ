@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,48 +36,48 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       19 hrs 30 mins      █████████████████░░░░░░░░   69.83 % 
-TypeScript               4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Go                       15 hrs 15 mins      █████████████████░░░░░░░░   67.69 % 
+TypeScript               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-GoLand                   27 hrs 55 mins      █████████████████████████   100.00 % 
+GoLand                   22 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vshell                   25 hrs 8 mins       ███████████████████████░░   90.04 % 
-c2                       1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-test                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-CS-Situational-Awareness-3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-bof_template             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+vshell                   19 hrs 27 mins      ██████████████████████░░░   86.33 % 
+c2                       1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+CBCTF                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+test                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+SZCTF                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  27 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 25 mins (76.72%)
+⏱ AI Coding Time: 17 hrs 45 mins (78.77%)
 
-✍️ 24,550 lines written by AI, 1,953 lines written by hand (92.63% AI-written)
+✍️ 20,353 lines written by AI, 1,285 lines written by hand (94.06% AI-written)
 
-🔤 15,975,566 Input Tokens, 3,145,204 Output Tokens
+🔤 12,891,703 Input Tokens, 2,950,107 Output Tokens
 
-💵 $1933.79 Estimated AI Cost This Week
+💵 $1842.41 Estimated AI Cost This Week
 
-🧠 170 AI Sessions, 287 AI Prompts
+🧠 135 AI Sessions, 236 AI Prompts
 
-Deepseek                 27,469 lines        █████████████████████████   99.88 % 
-K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Deepseek                 23,211 lines        █████████████████████████   99.86 % 
+K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.63% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
+🤖 AI-Driven — 94.06% of written lines came from AI
+📄 Detailed Prompter — average 848 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 18:36:43 UTC
+ Last Updated on 18/08/2026 01:04:14 UTC
 <!--END_SECTION:waka-->
