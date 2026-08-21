@@ -36,48 +36,48 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 26 mins       ████████████████░░░░░░░░░   63.50 % 
-TypeScript               2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Go                       2 hrs 26 mins       ██████████████░░░░░░░░░░░   55.92 % 
+TypeScript               1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-GoLand                   10 hrs 8 mins       █████████████████████████   100.00 % 
+GoLand                   4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vshell                   8 hrs 23 mins       █████████████████████░░░░   82.67 % 
-CBCTF                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-test                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-c2                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-SZCTF                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+vshell                   2 hrs 59 mins       █████████████████░░░░░░░░   68.18 % 
+CBCTF                    50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+test                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+SZCTF                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+c2                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (75.78%)
+⏱ AI Coding Time: 2 hrs 36 mins (59.56%)
 
-✍️ 6,418 lines written by AI, 591 lines written by hand (91.57% AI-written)
+✍️ 2,167 lines written by AI, 156 lines written by hand (93.28% AI-written)
 
-🔤 3,488,138 Input Tokens, 1,212,272 Output Tokens
+🔤 1,085,573 Input Tokens, 356,654 Output Tokens
 
-💵 $956.61 Estimated AI Cost This Week
+💵 $276.01 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 60 AI Prompts
+🧠 9 AI Sessions, 24 AI Prompts
 
-Deepseek                 8,462 lines         █████████████████████████   99.61 % 
-K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Deepseek                 3,633 lines         █████████████████████████   99.10 % 
+K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.57% of written lines came from AI
-📄 Detailed Prompter — average 1,062 characters per prompt
+🤖 AI-Driven — 93.28% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.52% of changed lines were hand-edited
+🚀 High AI Trust — 6.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 18:37:07 UTC
+ Last Updated on 21/08/2026 01:08:01 UTC
 <!--END_SECTION:waka-->
