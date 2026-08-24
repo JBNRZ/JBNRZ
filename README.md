@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C792%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C794%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2015%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,46 +36,47 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 55 mins        █████████████░░░░░░░░░░░░   53.35 % 
-TypeScript               47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Go                       3 hrs 40 mins       ████████████████████░░░░░   79.11 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 34 mins       █████████████████████████   99.35 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+GoLand                   4 hrs 36 mins       █████████████████████████   99.49 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-vshell                   2 hrs 17 mins       ████████████████░░░░░░░░░   63.50 % 
-CBCTF                    1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-SZCTF                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+vshell                   3 hrs 2 mins        ████████████████░░░░░░░░░   65.67 % 
+CBCTF                    1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+test                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+SZCTF                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (52.14%)
+⏱ AI Coding Time: 2 hrs 49 mins (60.84%)
 
-✍️ 1,892 lines written by AI, 193 lines written by hand (90.74% AI-written)
+✍️ 1,201 lines written by AI, 152 lines written by hand (88.77% AI-written)
 
-🔤 562,919 Input Tokens, 218,880 Output Tokens
+🔤 1,248,230 Input Tokens, 316,179 Output Tokens
 
-💵 $173.24 Estimated AI Cost This Week
+💵 $189.81 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 11 AI Sessions, 26 AI Prompts
 
-Deepseek                 2,202 lines         █████████████████████████   100.00 % 
+Deepseek                 1,372 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.74% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.9% of changed lines were hand-edited
+🤖 AI-Driven — 88.77% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 31.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +92,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:25:45 UTC
+ Last Updated on 24/08/2026 01:07:10 UTC
 <!--END_SECTION:waka-->
