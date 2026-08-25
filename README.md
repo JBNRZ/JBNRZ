@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C794%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,47 +36,48 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 40 mins       ████████████████████░░░░░   79.11 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Go                       8 hrs 2 mins        ███████████████████░░░░░░   75.96 % 
+TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 36 mins       █████████████████████████   99.49 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+GoLand                   10 hrs 33 mins      █████████████████████████   99.78 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-vshell                   3 hrs 2 mins        ████████████████░░░░░░░░░   65.67 % 
-CBCTF                    1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-test                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-SZCTF                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+vshell                   8 hrs 59 mins       █████████████████████░░░░   84.94 % 
+test                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+CBCTF                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CS-Situational-Awareness-11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+SZCTF                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (60.84%)
+⏱ AI Coding Time: 6 hrs 39 mins (63.01%)
 
-✍️ 1,201 lines written by AI, 152 lines written by hand (88.77% AI-written)
+✍️ 9,455 lines written by AI, 596 lines written by hand (94.07% AI-written)
 
-🔤 1,248,230 Input Tokens, 316,179 Output Tokens
+🔤 2,395,128 Input Tokens, 836,777 Output Tokens
 
-💵 $189.81 Estimated AI Cost This Week
+💵 $590.26 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 26 AI Prompts
+🧠 22 AI Sessions, 52 AI Prompts
 
-Deepseek                 1,372 lines         █████████████████████████   100.00 % 
+Deepseek                 9,790 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.77% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
+🤖 AI-Driven — 94.07% of written lines came from AI
+📄 Detailed Prompter — average 815 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 31.88% of changed lines were hand-edited
+🚀 High AI Trust — 18.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 18:37:54 UTC
+ Last Updated on 25/08/2026 01:06:53 UTC
 <!--END_SECTION:waka-->
