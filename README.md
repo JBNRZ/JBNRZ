@@ -18,9 +18,9 @@ Maybe something interesting
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,48 +36,48 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 2 mins        ███████████████████░░░░░░   75.96 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Go                       14 hrs 18 mins      ████████████████████░░░░░   79.16 % 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-GoLand                   10 hrs 33 mins      █████████████████████████   99.78 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+GoLand                   18 hrs 3 mins       █████████████████████████   99.87 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-vshell                   8 hrs 59 mins       █████████████████████░░░░   84.94 % 
-test                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-CBCTF                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-CS-Situational-Awareness-11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-SZCTF                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+vshell                   13 hrs 32 mins      ███████████████████░░░░░░   74.87 % 
+test                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+c2                       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+CBCTF                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+SZCTF                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Windows                  10 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 39 mins (63.01%)
+⏱ AI Coding Time: 10 hrs 33 mins (58.39%)
 
-✍️ 9,455 lines written by AI, 596 lines written by hand (94.07% AI-written)
+✍️ 10,224 lines written by AI, 1,107 lines written by hand (90.23% AI-written)
 
-🔤 2,395,128 Input Tokens, 836,777 Output Tokens
+🔤 3,541,671 Input Tokens, 1,242,989 Output Tokens
 
-💵 $590.26 Estimated AI Cost This Week
+💵 $826.34 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 52 AI Prompts
+🧠 35 AI Sessions, 89 AI Prompts
 
-Deepseek                 9,790 lines         █████████████████████████   100.00 % 
+Deepseek                 10,892 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.07% of written lines came from AI
-📄 Detailed Prompter — average 815 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 18.5% of changed lines were hand-edited
+🤖 AI-Driven — 90.23% of written lines came from AI
+📄 Detailed Prompter — average 519 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 36.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 18:37:32 UTC
+ Last Updated on 26/08/2026 01:08:47 UTC
 <!--END_SECTION:waka-->
