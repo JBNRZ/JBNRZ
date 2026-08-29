@@ -25,10 +25,10 @@ Maybe something interesting
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-🌆 Daytime                2404 commits        ███████████░░░░░░░░░░░░░░   43.00 % 
-🌃 Evening                1930 commits        █████████░░░░░░░░░░░░░░░░   34.52 % 
-🌙 Night                  810 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+🌞 Morning                475 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+🌆 Daytime                2625 commits        ███████████░░░░░░░░░░░░░░   43.14 % 
+🌃 Evening                2070 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌙 Night                  915 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 
 
@@ -36,48 +36,47 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       14 hrs 31 mins      ████████████████████░░░░░   79.40 % 
-TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Go                       15 hrs 4 mins       ████████████████████░░░░░   79.99 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Docker                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-GoLand                   18 hrs 16 mins      █████████████████████████   99.87 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GoLand                   18 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vshell                   13 hrs 32 mins      ██████████████████░░░░░░░   74.00 % 
-test                     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-CBCTF                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-c2                       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-SZCTF                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+vshell                   13 hrs 46 mins      ██████████████████░░░░░░░   73.07 % 
+test                     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+c2                       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+CBCTF                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+SZCTF                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  18 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 33 mins (57.72%)
+⏱ AI Coding Time: 11 hrs 25 mins (60.63%)
 
-✍️ 10,224 lines written by AI, 1,107 lines written by hand (90.23% AI-written)
+✍️ 10,665 lines written by AI, 1,138 lines written by hand (90.36% AI-written)
 
-🔤 3,483,418 Input Tokens, 1,238,866 Output Tokens
+🔤 3,810,104 Input Tokens, 1,309,600 Output Tokens
 
-💵 $825.56 Estimated AI Cost This Week
+💵 $827.54 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 86 AI Prompts
+🧠 34 AI Sessions, 93 AI Prompts
 
-Deepseek                 10,892 lines        █████████████████████████   100.00 % 
+Deepseek                 11,487 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.23% of written lines came from AI
-📄 Detailed Prompter — average 536 characters per prompt
+🤖 AI-Driven — 90.36% of written lines came from AI
+📄 Detailed Prompter — average 509 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 36.14% of changed lines were hand-edited
+🚀 High AI Trust — 35.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +92,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 12:17:00 UTC
+ Last Updated on 29/08/2026 20:24:58 UTC
 <!--END_SECTION:waka-->
