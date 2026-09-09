@@ -36,50 +36,51 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-Go                       58 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-go.mod                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python                   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+Go                       3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-GoLand                   1 hr 53 mins        █████████████░░░░░░░░░░░░   53.90 % 
-PyCharm                  1 hr 36 mins        ███████████░░░░░░░░░░░░░░   45.71 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+GoLand                   10 hrs 58 mins      ████████████████████░░░░░   80.26 % 
+PyCharm                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Opencode Cli             1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 
 🐱‍💻 Projects: 
-wx                       1 hr 34 mins        ███████████░░░░░░░░░░░░░░   44.93 % 
-CBCTF                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-vshell                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-jz                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+vshell                   4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
+Downloads                3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+data-analyze             2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+wx                       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+CBCTF                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (42.17%)
+⏱ AI Coding Time: 11 hrs 43 mins (85.81%)
 
-✍️ 2,927 lines written by AI, 390 lines written by hand (88.24% AI-written)
+✍️ 18,755 lines written by AI, 405 lines written by hand (97.89% AI-written)
 
-🔤 476,192 Input Tokens, 163,939 Output Tokens
+🔤 3,574,441 Input Tokens, 1,850,453 Output Tokens
 
-💵 $131.35 Estimated AI Cost This Week
+💵 $654.74 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 44 AI Sessions, 115 AI Prompts
 
-Deepseek                 2,970 lines         █████████████████████████   100.00 % 
+Deepseek                 14,015 lines        ██████████████████░░░░░░░   71.46 % 
+GPT                      5,598 lines         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.24% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.09% of changed lines were hand-edited
+🤖 AI-Driven — 97.89% of written lines came from AI
+📄 Detailed Prompter — average 704 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +96,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 15:55:20 UTC
+ Last Updated on 09/09/2026 20:24:42 UTC
 <!--END_SECTION:waka-->
