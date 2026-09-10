@@ -36,51 +36,51 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
-Go                       3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Go                       5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+Python                   4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TypeScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-GoLand                   10 hrs 58 mins      ████████████████████░░░░░   80.26 % 
-PyCharm                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Opencode Cli             1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+GoLand                   12 hrs 22 mins      ████████████████░░░░░░░░░   63.77 % 
+Opencode Cli             5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+PyCharm                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🐱‍💻 Projects: 
-vshell                   4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
-Downloads                3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-data-analyze             2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-wx                       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-CBCTF                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+data-analyze             5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+vshell                   4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Downloads                3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+CBCTF                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+wx                       1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Windows                  13 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 43 mins (85.81%)
+⏱ AI Coding Time: 17 hrs 4 mins (88.02%)
 
-✍️ 18,755 lines written by AI, 405 lines written by hand (97.89% AI-written)
+✍️ 53,190 lines written by AI, 428 lines written by hand (99.2% AI-written)
 
-🔤 3,574,441 Input Tokens, 1,850,453 Output Tokens
+🔤 13,720,064 Input Tokens, 3,185,627 Output Tokens
 
-💵 $654.74 Estimated AI Cost This Week
+💵 $921.54 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 115 AI Prompts
+🧠 128 AI Sessions, 215 AI Prompts
 
-Deepseek                 14,015 lines        ██████████████████░░░░░░░   71.46 % 
-GPT                      5,598 lines         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+GPT                      43,477 lines        ███████████████████░░░░░░   75.26 % 
+Deepseek                 14,292 lines        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.89% of written lines came from AI
-📄 Detailed Prompter — average 704 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.4% of changed lines were hand-edited
+🤖 AI-Driven — 99.2% of written lines came from AI
+📄 Detailed Prompter — average 847 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 15:51:42 UTC
+ Last Updated on 10/09/2026 20:27:10 UTC
 <!--END_SECTION:waka-->
