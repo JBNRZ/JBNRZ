@@ -36,51 +36,50 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Python                   4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-JavaScript               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-TypeScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Go                       5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Python                   3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+TypeScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-GoLand                   12 hrs 22 mins      ████████████████░░░░░░░░░   63.77 % 
-Opencode Cli             5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-PyCharm                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+GoLand                   12 hrs 34 mins      █████████████████░░░░░░░░   69.93 % 
+Opencode Cli             5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
 
 🐱‍💻 Projects: 
-data-analyze             5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-vshell                   4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Downloads                3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-CBCTF                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-wx                       1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+data-analyze             5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+vshell                   4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Downloads                3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+CBCTF                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+SZCTF                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (88.02%)
+⏱ AI Coding Time: 16 hrs 13 mins (90.18%)
 
-✍️ 53,190 lines written by AI, 428 lines written by hand (99.2% AI-written)
+✍️ 51,785 lines written by AI, 366 lines written by hand (99.3% AI-written)
 
-🔤 13,720,064 Input Tokens, 3,185,627 Output Tokens
+🔤 13,456,143 Input Tokens, 3,107,645 Output Tokens
 
-💵 $921.54 Estimated AI Cost This Week
+💵 $849.32 Estimated AI Cost This Week
 
-🧠 128 AI Sessions, 215 AI Prompts
+🧠 129 AI Sessions, 199 AI Prompts
 
-GPT                      43,477 lines        ███████████████████░░░░░░   75.26 % 
-Deepseek                 14,292 lines        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+GPT                      43,477 lines        ███████████████████░░░░░░   77.18 % 
+Deepseek                 12,857 lines        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📄 Detailed Prompter — average 847 characters per prompt
+🤖 AI-Driven — 99.3% of written lines came from AI
+📄 Detailed Prompter — average 910 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.71% of changed lines were hand-edited
+🚀 High AI Trust — 1.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +95,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 15:52:59 UTC
+ Last Updated on 11/09/2026 20:27:45 UTC
 <!--END_SECTION:waka-->
