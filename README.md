@@ -36,53 +36,53 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Go                       2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Rust                     2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Go                       2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🔥 Editors: 
-GoLand                   6 hrs 23 mins       ██████████████░░░░░░░░░░░   56.19 % 
-PyCharm                  2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-RustRover                1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+GoLand                   5 hrs 50 mins       █████████████░░░░░░░░░░░░   52.62 % 
+PyCharm                  3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+RustRover                1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-vshell                   3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-SZCTF                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-出题                       1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-learn                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CBCTF                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+vshell                   3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
+SZCTF                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+出题                       1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+learn                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+CBCTF                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 51 mins (60.34%)
+⏱ AI Coding Time: 6 hrs 37 mins (59.58%)
 
-✍️ 5,453 lines written by AI, 535 lines written by hand (91.07% AI-written)
+✍️ 5,101 lines written by AI, 551 lines written by hand (90.25% AI-written)
 
-🔤 2,522,240 Input Tokens, 743,654 Output Tokens
+🔤 2,401,480 Input Tokens, 693,714 Output Tokens
 
-💵 $306.40 Estimated AI Cost This Week
+💵 $301.25 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 71 AI Prompts
+🧠 40 AI Sessions, 67 AI Prompts
 
-Deepseek                 6,029 lines         ████████████████████████░   97.18 % 
-GPT                      175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Deepseek                 5,677 lines         ████████████████████████░   97.01 % 
+GPT                      175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.07% of written lines came from AI
-📄 Detailed Prompter — average 1,219 characters per prompt
+🤖 AI-Driven — 90.25% of written lines came from AI
+📄 Detailed Prompter — average 1,284 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 23.96% of changed lines were hand-edited
+🚀 High AI Trust — 25.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +98,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 15:50:02 UTC
+ Last Updated on 18/09/2026 20:25:17 UTC
 <!--END_SECTION:waka-->
