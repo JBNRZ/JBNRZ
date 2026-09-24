@@ -36,51 +36,50 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 38 mins       ███████████████░░░░░░░░░░   58.26 % 
-Go                       1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Rust                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    1 hr 15 mins        ███████████████░░░░░░░░░░   60.97 % 
+Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.61 % 
-GoLand                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.25 % 
-Codex CLI                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-RustRover                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+GoLand                   1 hr 3 mins         █████████████░░░░░░░░░░░░   51.50 % 
+Codex CLI                36 mins             ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+PyCharm                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 
 🐱‍💻 Projects: 
-beikelove                1 hr 54 mins        ███████████░░░░░░░░░░░░░░   42.22 % 
-vshell                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-CBCTF                    55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-beikelove.py             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Downloads                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CBCTF                    55 mins             ███████████░░░░░░░░░░░░░░   45.32 % 
+beikelove                35 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+beikelove.py             23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Downloads                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+vshell                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (83.79%)
+⏱ AI Coding Time: 1 hr 20 mins (65.08%)
 
-✍️ 293 lines written by AI, 182 lines written by hand (61.68% AI-written)
+✍️ 57 lines written by AI, 180 lines written by hand (24.05% AI-written)
 
-🔤 1,186,772 Input Tokens, 261,858 Output Tokens
+🔤 389,549 Input Tokens, 73,411 Output Tokens
 
-💵 $147.54 Estimated AI Cost This Week
+💵 $15.22 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-Deepseek                 312 lines           █████████████████████████   100.00 % 
+Deepseek                 57 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.68% of written lines came from AI
-📝 Concise Prompter — average 338 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 40.91% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.05% of written lines came from AI
+📄 Detailed Prompter — average 728 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 78.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +95,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 16:29:54 UTC
+ Last Updated on 24/09/2026 21:10:05 UTC
 <!--END_SECTION:waka-->
