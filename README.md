@@ -36,50 +36,49 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 15 mins        ███████████████░░░░░░░░░░   60.97 % 
-Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    1 hr                ██████████████████░░░░░░░   70.81 % 
+Go                       20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-GoLand                   1 hr 3 mins         █████████████░░░░░░░░░░░░   51.50 % 
-Codex CLI                36 mins             ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-PyCharm                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+GoLand                   48 mins             ██████████████░░░░░░░░░░░   57.08 % 
+Codex CLI                36 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
 
 🐱‍💻 Projects: 
-CBCTF                    55 mins             ███████████░░░░░░░░░░░░░░   45.32 % 
-beikelove                35 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-beikelove.py             23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Downloads                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-vshell                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+CBCTF                    55 mins             ████████████████░░░░░░░░░   65.70 % 
+beikelove                21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Downloads                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+vshell                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+http                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (65.08%)
+⏱ AI Coding Time: 1 hr 5 mins (76.77%)
 
-✍️ 57 lines written by AI, 180 lines written by hand (24.05% AI-written)
+✍️ 57 lines written by AI, 25 lines written by hand (69.51% AI-written)
 
-🔤 389,549 Input Tokens, 73,411 Output Tokens
+🔤 365,670 Input Tokens, 70,992 Output Tokens
 
-💵 $15.22 Estimated AI Cost This Week
+💵 $14.57 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 12 AI Prompts
+🧠 5 AI Sessions, 9 AI Prompts
 
 Deepseek                 57 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.05% of written lines came from AI
-📄 Detailed Prompter — average 728 characters per prompt
+🤖 AI-Driven — 69.51% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 78.97% of changed lines were hand-edited
+🚀 High AI Trust — 45.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +94,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 16:31:11 UTC
+ Last Updated on 25/09/2026 21:06:26 UTC
 <!--END_SECTION:waka-->
