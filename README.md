@@ -36,49 +36,45 @@ Maybe something interesting
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr                ██████████████████░░░░░░░   70.81 % 
-Go                       20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    39 mins             ███████████████░░░░░░░░░░   61.31 % 
+Go                       20 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
+go.mod                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-GoLand                   48 mins             ██████████████░░░░░░░░░░░   57.08 % 
-Codex CLI                36 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
+Codex CLI                36 mins             ██████████████░░░░░░░░░░░   57.14 % 
+GoLand                   27 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
 
 🐱‍💻 Projects: 
-CBCTF                    55 mins             ████████████████░░░░░░░░░   65.70 % 
-beikelove                21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Downloads                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-vshell                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-http                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+CBCTF                    55 mins             ██████████████████████░░░   87.46 % 
+Downloads                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+vshell                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (76.77%)
+⏱ AI Coding Time: 44 mins (69.07%)
 
-✍️ 57 lines written by AI, 25 lines written by hand (69.51% AI-written)
+✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
 
-🔤 365,670 Input Tokens, 70,992 Output Tokens
+🔤 305,286 Input Tokens, 64,515 Output Tokens
 
-💵 $14.57 Estimated AI Cost This Week
+💵 $13.48 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-Deepseek                 57 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.51% of written lines came from AI
-📄 Detailed Prompter — average 819 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,774 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 45.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +90,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 16:23:19 UTC
+ Last Updated on 27/09/2026 20:52:55 UTC
 <!--END_SECTION:waka-->
